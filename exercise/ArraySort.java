@@ -1,3 +1,14 @@
+/**
+ * "cat"
+ * "bat"
+ * "rat"
+ * "computer" 
+ * in an array 
+ * and display the contents in array in ascending order.
+ * 
+ * @author vishe
+ */
+
 package com.exercise;
 
 import java.util.Arrays;
